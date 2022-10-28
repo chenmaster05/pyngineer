@@ -1,3 +1,5 @@
+[中文文档请点此处](https://github.com/chenmaster05/pyngineer/blob/main/README-zh_CN.md)
+
 # Pyngineer
 
 The package that suits all Engineer's Python needs!
@@ -36,7 +38,7 @@ print(math.tau)
 def init_engineer():
 ```
 
-This function immediately redefines all relevant constants for engineering purposes.
+This function immediately redefines all relevant constants and functions for engineering purposes.
 
 ## Installation Instructions
 
@@ -48,8 +50,8 @@ Then, download this repository and run
 ```
 $ pip install .
 ```
-at your download directory.
+at the repository's root directory.
 
 ## License
 
-This project is open-source under the *Engineer GPL v0x0*.
+This project is open-source under the *Engineer's GPL v0x0*.
